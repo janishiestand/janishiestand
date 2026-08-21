@@ -1,16 +1,25 @@
-## Hi there 👋
+# Janis Hiestand
 
-<!--
-**janishiestand/janishiestand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer building and operating production full-stack and backend systems in TypeScript and .NET.
 
-Here are some ideas to get you started:
+## Production systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [InkDraft](https://inkdraft.io)
+
+Turns sales-call transcripts and company knowledge into tailored proposals and contracts, then carries the workflow through client review, e-signature, and payment collection.
+
+### [ThesisCheck](https://thesischeck.io)
+
+Tests investment theses against primary filings, verifies claims against their sources, identifies evidence gaps, and produces an auditable research ledger.
+
+## Engineering focus
+
+- Software architecture, backend development and API design
+- TypeScript, Node.js, React and PostgreSQL
+- C#, .NET and Entity Framework
+- Automated testing, background processing and production operations
+- Payment workflows and retrieval-backed LLM systems
+
+The production repositories for InkDraft and ThesisCheck are private.
+
+[Hiestand Digital](https://hiestanddigital.ch) · [LinkedIn](https://www.linkedin.com/in/janishiestand/)
