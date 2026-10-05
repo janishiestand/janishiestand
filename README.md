@@ -16,9 +16,9 @@ InkDraft turns sales-call transcripts into proposals, contracts and NDAs, then h
 
 TypeScript · Next.js · Prisma · PostgreSQL (pgvector) · Trigger.dev · Stripe
 
-## Also
+## Experience
 
-I run both products through Hiestand Digital, my own company. I also worked as a Senior Software Engineer on contract at Ante Digital, delivering AI automation with n8n and Trigger.dev for clients in healthcare recruitment, wealth advisory, real estate and media. Before that I was a Software Developer at Macos Software AG, where I worked on a large Swiss pension platform with 40 years of history, in C#, .NET 8 and Entity Framework.
+I run both products through Hiestand Digital, my own company. From December 2025 to June 2026 I was a Senior Software Engineer on contract at Ante Digital, delivering AI automation with n8n and Trigger.dev for clients in healthcare recruitment, wealth advisory, real estate and media. Before that I was a Software Developer at Macos Software AG, where I worked on a large Swiss pension platform with 40 years of history, in C#, .NET 8 and Entity Framework.
 
 The production repositories for ThesisCheck and InkDraft are private.
 
