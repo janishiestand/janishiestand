@@ -6,7 +6,7 @@ AI and full-stack software engineer in Zürich. I build and run production syste
 
 ### [ThesisCheck](https://thesischeck.io)
 
-ThesisCheck tests investment theses against primary filings from SEC EDGAR, LSE, ASX and EDINET and drops any claim it cannot match to an exact source passage. It has published a growing [library of reports](https://thesischeck.io/teardown) on public companies, and each one was checked automatically before it went live, including that it cites dated primary filings both for and against the thesis. Its remote MCP server is listed in the Official MCP Registry.
+ThesisCheck tests investment theses against primary filings from SEC EDGAR, LSE, ASX and EDINET and drops any claim it cannot match to an exact source passage. It has published a growing [library of reports](https://thesischeck.io/teardown) on public companies, and each one was checked automatically before it went live, including that it cites dated primary filings both for and against the thesis. AI assistants like Claude can use it directly through its remote MCP server.
 
 TypeScript · Next.js · Vercel AI SDK · Trigger.dev · PostgreSQL
 
