@@ -4,17 +4,17 @@ AI and full-stack software engineer in Zürich. I build and run production syste
 
 ## Production systems
 
-### [ThesisCheck](https://thesischeck.io)
-
-ThesisCheck tests investment theses against primary filings from SEC EDGAR, LSE, ASX and EDINET and drops any claim it cannot match to an exact source passage. It has published a growing [library of reports](https://thesischeck.io/teardown) on public companies, and each one was checked automatically before it went live, including that it cites dated primary filings both for and against the thesis. AI assistants like Claude can use it directly through its remote MCP server.
-
-TypeScript · Next.js · Vercel AI SDK · Trigger.dev · PostgreSQL
-
 ### [InkDraft](https://inkdraft.io)
 
 InkDraft turns sales-call transcripts into proposals, contracts and NDAs, then handles review, e-signature and payment. It uses RAG over each customer's own knowledge base, ties every commercial term to its place in the transcript, and calculates prices in code instead of taking them from the model.
 
 TypeScript · Next.js · Prisma · PostgreSQL (pgvector) · Trigger.dev · Stripe
+
+### [ThesisCheck](https://thesischeck.io)
+
+ThesisCheck tests investment theses against primary filings from SEC EDGAR, LSE, ASX and EDINET and drops any claim it cannot match to an exact source passage. It has published a growing [library of reports](https://thesischeck.io/teardown) on public companies, and each one was checked automatically before it went live, including that it cites dated primary filings both for and against the thesis. AI assistants like Claude can use it directly through its remote MCP server.
+
+TypeScript · Next.js · Vercel AI SDK · Trigger.dev · PostgreSQL
 
 ## Experience
 
