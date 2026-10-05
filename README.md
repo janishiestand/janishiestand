@@ -1,25 +1,25 @@
 # Janis Hiestand
 
-Senior Software Engineer building and operating production full-stack and backend systems in TypeScript and .NET.
+AI and full-stack software engineer in Zürich. I build and run production systems end to end, from LLM pipelines and data models to payments and operations. My two SaaS products, for financial research and legal contracts, use agentic tool use, RAG, evals and MCP servers.
 
 ## Production systems
 
-### [InkDraft](https://inkdraft.io)
+### [ThesisCheck](https://thesischeck.io) · [sample report](https://thesischeck.io/sample-report)
 
-Turns sales-call transcripts and company knowledge into tailored proposals and contracts, then carries the workflow through client review, e-signature, and payment collection.
+ThesisCheck tests investment theses against primary filings from SEC EDGAR, LSE, ASX and EDINET and drops any claim it cannot match to an exact source passage. It has published [193 reports](https://thesischeck.io/teardown) on public companies, and each one was checked automatically before it went live, including that it cites dated primary filings both for and against the thesis. Its remote MCP server is listed in the Official MCP Registry.
 
-### [ThesisCheck](https://thesischeck.io)
+TypeScript · Next.js · Vercel AI SDK · Trigger.dev · PostgreSQL
 
-Tests investment theses against primary filings, verifies claims against their sources, identifies evidence gaps, and produces an auditable research ledger.
+### [InkDraft](https://inkdraft.io) · [examples](https://inkdraft.io/examples)
 
-## Engineering focus
+InkDraft turns sales-call transcripts into proposals, contracts and NDAs, then handles review, e-signature and payment. It uses RAG over each customer's own knowledge base, ties every commercial term to its place in the transcript, and calculates prices in code instead of taking them from the model.
 
-- Software architecture, backend development and API design
-- TypeScript, Node.js, React and PostgreSQL
-- C#, .NET and Entity Framework
-- Automated testing, background processing and production operations
-- Payment workflows and retrieval-backed LLM systems
+TypeScript · Next.js · Prisma · PostgreSQL (pgvector) · Trigger.dev · Stripe
 
-The production repositories for InkDraft and ThesisCheck are private.
+## Also
+
+I run both products through Hiestand Digital, my own company. I also worked as a Senior Software Engineer on contract at Ante Digital, delivering AI automation with n8n and Trigger.dev for clients in healthcare recruitment, wealth advisory, real estate and media. Before that I was a Software Developer at Macos Software AG, where I worked on a large Swiss pension platform with 40 years of history, in C#, .NET 8 and Entity Framework.
+
+The production repositories for ThesisCheck and InkDraft are private.
 
 [Hiestand Digital](https://hiestanddigital.ch) · [LinkedIn](https://www.linkedin.com/in/janishiestand/)
